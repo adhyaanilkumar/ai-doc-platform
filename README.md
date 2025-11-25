@@ -167,12 +167,4 @@ The backend allows connections from multiple localhost ports (3000-3004, 5173). 
 
 ---
 
-## Demo Video
-Record a 5–10 minute walkthrough covering:
-- Registration & login
-- Word and PowerPoint project setup
-- AI generation, refinement loops, feedback buttons
-- Exporting both document types
-- (Optional) AI-generated outline workflow
 
-Host the video (e.g., Loom, YouTube) and link it alongside this README when submitting.
